@@ -1,0 +1,12 @@
+for running 
+cd frontend 
+npm run dev
+
+
+cd backend
+npm run server
+
+cd admin
+npm run dev
+
+
